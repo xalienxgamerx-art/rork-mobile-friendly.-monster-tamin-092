@@ -1,0 +1,532 @@
+{
+	"version": 40,
+	"s": 6,
+	"w": 768,
+	"h": 1152,
+	"parts": {
+		"body.trailwarden": {
+			"art": "hd/body_trailwarden_p6.png",
+			"mask": "hd/body_trailwarden_p6_mask.png",
+			"layer": 1,
+			"rect": {
+				"dx": 0,
+				"dy": 0,
+				"dw": 768,
+				"dh": 1152
+			},
+			"slots": []
+		},
+		"body.brawler": {
+			"art": "hd/body_brawler_p6.png",
+			"mask": "hd/body_brawler_p6_mask.png",
+			"layer": 1,
+			"rect": {
+				"dx": 0,
+				"dy": 0,
+				"dw": 768,
+				"dh": 1152
+			},
+			"slots": []
+		},
+		"body.wayfarer": {
+			"art": "hd/body_wayfarer_p6.png",
+			"mask": "hd/body_wayfarer_p6_mask.png",
+			"layer": 1,
+			"rect": {
+				"dx": 0,
+				"dy": 0,
+				"dw": 768,
+				"dh": 1152
+			},
+			"slots": []
+		},
+		"body.scout": {
+			"art": "hd/body_scout_p6.png",
+			"mask": "hd/body_scout_p6_mask.png",
+			"layer": 1,
+			"rect": {
+				"dx": 0,
+				"dy": 0,
+				"dw": 768,
+				"dh": 1152
+			},
+			"slots": []
+		},
+		"face.stern.neutral": {
+			"art": "hd/face_stern_neutral_p11.png",
+			"mask": "hd/face_stern_neutral_p11_mask.png",
+			"layer": 2,
+			"rect": {
+				"dx": 264,
+				"dy": 96,
+				"dw": 240,
+				"dh": 220
+			},
+			"slots": []
+		},
+		"face.stern.grin": {
+			"art": "hd/face_stern_grin_p11.png",
+			"mask": "hd/face_stern_grin_p11_mask.png",
+			"layer": 2,
+			"rect": {
+				"dx": 264,
+				"dy": 96,
+				"dw": 240,
+				"dh": 220
+			},
+			"slots": []
+		},
+		"face.easy.neutral": {
+			"art": "hd/face_easy_neutral_p11.png",
+			"mask": "hd/face_easy_neutral_p11_mask.png",
+			"layer": 2,
+			"rect": {
+				"dx": 264,
+				"dy": 96,
+				"dw": 240,
+				"dh": 220
+			},
+			"slots": []
+		},
+		"face.easy.grin": {
+			"art": "hd/face_easy_grin_p11.png",
+			"mask": "hd/face_easy_grin_p11_mask.png",
+			"layer": 2,
+			"rect": {
+				"dx": 264,
+				"dy": 96,
+				"dw": 240,
+				"dh": 220
+			},
+			"slots": []
+		},
+		"face.bright.neutral": {
+			"art": "hd/face_bright_neutral_p11.png",
+			"mask": "hd/face_bright_neutral_p11_mask.png",
+			"layer": 2,
+			"rect": {
+				"dx": 264,
+				"dy": 96,
+				"dw": 240,
+				"dh": 220
+			},
+			"slots": []
+		},
+		"face.bright.grin": {
+			"art": "hd/face_bright_grin_p11.png",
+			"mask": "hd/face_bright_grin_p11_mask.png",
+			"layer": 2,
+			"rect": {
+				"dx": 264,
+				"dy": 96,
+				"dw": 240,
+				"dh": 220
+			},
+			"slots": []
+		},
+		"face.keen.neutral": {
+			"art": "hd/face_keen_neutral_p11.png",
+			"mask": "hd/face_keen_neutral_p11_mask.png",
+			"layer": 2,
+			"rect": {
+				"dx": 264,
+				"dy": 96,
+				"dw": 240,
+				"dh": 220
+			},
+			"slots": []
+		},
+		"face.keen.grin": {
+			"art": "hd/face_keen_grin_p11.png",
+			"mask": "hd/face_keen_grin_p11_mask.png",
+			"layer": 2,
+			"rect": {
+				"dx": 264,
+				"dy": 96,
+				"dw": 240,
+				"dh": 220
+			},
+			"slots": []
+		},
+		"hair.crop.front": {
+			"layer": 3,
+			"variants": {
+				"stern": {
+					"art": "hd/hair_crop_front__stern_p6_p3.png",
+					"mask": "hd/hair_crop_front__stern_p6_p3_mask.png",
+					"dx": 277,
+					"dy": 84,
+					"dw": 199,
+					"dh": 214
+				},
+				"easy": {
+					"art": "hd/hair_crop_front__easy_p6_p3.png",
+					"mask": "hd/hair_crop_front__easy_p6_p3_mask.png",
+					"dx": 249,
+					"dy": 42,
+					"dw": 241,
+					"dh": 259
+				},
+				"bright": {
+					"art": "hd/hair_crop_front__bright_p6_p3.png",
+					"mask": "hd/hair_crop_front__bright_p6_p3_mask.png",
+					"dx": 267,
+					"dy": 73,
+					"dw": 210,
+					"dh": 226
+				},
+				"keen": {
+					"art": "hd/hair_crop_front__keen_p6_p3.png",
+					"mask": "hd/hair_crop_front__keen_p6_p3_mask.png",
+					"dx": 271,
+					"dy": 45,
+					"dw": 228,
+					"dh": 244
+				}
+			},
+			"slots": []
+		},
+		"hair.tousled.front": {
+			"layer": 3,
+			"variants": {
+				"stern": {
+					"art": "hd/hair_tousled_front__stern_p6_p3.png",
+					"mask": "hd/hair_tousled_front__stern_p6_p3_mask.png",
+					"dx": 275,
+					"dy": 93,
+					"dw": 188,
+					"dh": 189
+				},
+				"easy": {
+					"art": "hd/hair_tousled_front__easy_p6_p3.png",
+					"mask": "hd/hair_tousled_front__easy_p6_p3_mask.png",
+					"dx": 246,
+					"dy": 52,
+					"dw": 228,
+					"dh": 229
+				},
+				"bright": {
+					"art": "hd/hair_tousled_front__bright_p6_p3.png",
+					"mask": "hd/hair_tousled_front__bright_p6_p3_mask.png",
+					"dx": 263,
+					"dy": 82,
+					"dw": 199,
+					"dh": 200
+				},
+				"keen": {
+					"art": "hd/hair_tousled_front__keen_p6_p3.png",
+					"mask": "hd/hair_tousled_front__keen_p6_p3_mask.png",
+					"dx": 269,
+					"dy": 54,
+					"dw": 215,
+					"dh": 217
+				}
+			},
+			"slots": []
+		},
+		"hair.bob.front": {
+			"layer": 3,
+			"variants": {
+				"stern": {
+					"art": "hd/hair_bob_front__stern_p6_p3.png",
+					"mask": "hd/hair_bob_front__stern_p6_p3_mask.png",
+					"dx": 301,
+					"dy": 127,
+					"dw": 159,
+					"dh": 159
+				},
+				"easy": {
+					"art": "hd/hair_bob_front__easy_p6_p3.png",
+					"mask": "hd/hair_bob_front__easy_p6_p3_mask.png",
+					"dx": 277,
+					"dy": 93,
+					"dw": 192,
+					"dh": 192
+				},
+				"bright": {
+					"art": "hd/hair_bob_front__bright_p6_p3.png",
+					"mask": "hd/hair_bob_front__bright_p6_p3_mask.png",
+					"dx": 290,
+					"dy": 118,
+					"dw": 168,
+					"dh": 168
+				},
+				"keen": {
+					"art": "hd/hair_bob_front__keen_p6_p3.png",
+					"mask": "hd/hair_bob_front__keen_p6_p3_mask.png",
+					"dx": 297,
+					"dy": 94,
+					"dw": 181,
+					"dh": 181
+				}
+			},
+			"slots": []
+		},
+		"hair.bob.back": {
+			"layer": 0,
+			"variants": {
+				"stern": {
+					"art": "hd/hair_bob_back__stern_p6_p3.png",
+					"mask": "hd/hair_bob_back__stern_p6_p3_mask.png",
+					"dx": 307,
+					"dy": 118,
+					"dw": 145,
+					"dh": 144
+				},
+				"easy": {
+					"art": "hd/hair_bob_back__easy_p6_p3.png",
+					"mask": "hd/hair_bob_back__easy_p6_p3_mask.png",
+					"dx": 285,
+					"dy": 118,
+					"dw": 176,
+					"dh": 174
+				},
+				"bright": {
+					"art": "hd/hair_bob_back__bright_p6_p3.png",
+					"mask": "hd/hair_bob_back__bright_p6_p3_mask.png",
+					"dx": 298,
+					"dy": 118,
+					"dw": 154,
+					"dh": 152
+				},
+				"keen": {
+					"art": "hd/hair_bob_back__keen_p6_p3.png",
+					"mask": "hd/hair_bob_back__keen_p6_p3_mask.png",
+					"dx": 305,
+					"dy": 118,
+					"dw": 166,
+					"dh": 165
+				}
+			},
+			"slots": []
+		},
+		"hair.shag.front": {
+			"layer": 3,
+			"variants": {
+				"stern": {
+					"art": "hd/hair_shag_front__stern_p6_p3.png",
+					"mask": "hd/hair_shag_front__stern_p6_p3_mask.png",
+					"dx": 274,
+					"dy": 82,
+					"dw": 196,
+					"dh": 198
+				},
+				"easy": {
+					"art": "hd/hair_shag_front__easy_p6_p3.png",
+					"mask": "hd/hair_shag_front__easy_p6_p3_mask.png",
+					"dx": 245,
+					"dy": 38,
+					"dw": 239,
+					"dh": 240
+				},
+				"bright": {
+					"art": "hd/hair_shag_front__bright_p6_p3.png",
+					"mask": "hd/hair_shag_front__bright_p6_p3_mask.png",
+					"dx": 262,
+					"dy": 71,
+					"dw": 208,
+					"dh": 210
+				},
+				"keen": {
+					"art": "hd/hair_shag_front__keen_p6_p3.png",
+					"mask": "hd/hair_shag_front__keen_p6_p3_mask.png",
+					"dx": 267,
+					"dy": 42,
+					"dw": 225,
+					"dh": 227
+				}
+			},
+			"slots": []
+		},
+		"hair.shag.back": {
+			"layer": 0,
+			"variants": {
+				"stern": {
+					"art": "hd/hair_shag_back__stern_p6_p3.png",
+					"mask": "hd/hair_shag_back__stern_p6_p3_mask.png",
+					"dx": 285,
+					"dy": 118,
+					"dw": 191,
+					"dh": 205
+				},
+				"easy": {
+					"art": "hd/hair_shag_back__easy_p6_p3.png",
+					"mask": "hd/hair_shag_back__easy_p6_p3_mask.png",
+					"dx": 257,
+					"dy": 118,
+					"dw": 232,
+					"dh": 249
+				},
+				"bright": {
+					"art": "hd/hair_shag_back__bright_p6_p3.png",
+					"mask": "hd/hair_shag_back__bright_p6_p3_mask.png",
+					"dx": 273,
+					"dy": 118,
+					"dw": 203,
+					"dh": 217
+				},
+				"keen": {
+					"art": "hd/hair_shag_back__keen_p6_p3.png",
+					"mask": "hd/hair_shag_back__keen_p6_p3_mask.png",
+					"dx": 279,
+					"dy": 118,
+					"dw": 219,
+					"dh": 234
+				}
+			},
+			"slots": []
+		},
+		"hair.mane.front": {
+			"layer": 3,
+			"variants": {
+				"stern": {
+					"art": "hd/hair_mane_front__stern_p6_p3.png",
+					"mask": "hd/hair_mane_front__stern_p6_p3_mask.png",
+					"dx": 262,
+					"dy": 113,
+					"dw": 234,
+					"dh": 298
+				},
+				"easy": {
+					"art": "hd/hair_mane_front__easy_p6_p3.png",
+					"mask": "hd/hair_mane_front__easy_p6_p3_mask.png",
+					"dx": 232,
+					"dy": 76,
+					"dw": 283,
+					"dh": 362
+				},
+				"bright": {
+					"art": "hd/hair_mane_front__bright_p6_p3.png",
+					"mask": "hd/hair_mane_front__bright_p6_p3_mask.png",
+					"dx": 250,
+					"dy": 104,
+					"dw": 247,
+					"dh": 316
+				},
+				"keen": {
+					"art": "hd/hair_mane_front__keen_p6_p3.png",
+					"mask": "hd/hair_mane_front__keen_p6_p3_mask.png",
+					"dx": 255,
+					"dy": 79,
+					"dw": 268,
+					"dh": 341
+				}
+			},
+			"slots": []
+		},
+		"hair.mane.back": {
+			"layer": 0,
+			"variants": {
+				"stern": {
+					"art": "hd/hair_mane_back__stern_p6_p3.png",
+					"mask": "hd/hair_mane_back__stern_p6_p3_mask.png",
+					"dx": 275,
+					"dy": 118,
+					"dw": 210,
+					"dh": 297
+				},
+				"easy": {
+					"art": "hd/hair_mane_back__easy_p6_p3.png",
+					"mask": "hd/hair_mane_back__easy_p6_p3_mask.png",
+					"dx": 245,
+					"dy": 118,
+					"dw": 254,
+					"dh": 361
+				},
+				"bright": {
+					"art": "hd/hair_mane_back__bright_p6_p3.png",
+					"mask": "hd/hair_mane_back__bright_p6_p3_mask.png",
+					"dx": 263,
+					"dy": 118,
+					"dw": 222,
+					"dh": 315
+				},
+				"keen": {
+					"art": "hd/hair_mane_back__keen_p6_p3.png",
+					"mask": "hd/hair_mane_back__keen_p6_p3_mask.png",
+					"dx": 268,
+					"dy": 118,
+					"dw": 240,
+					"dh": 341
+				}
+			},
+			"slots": []
+		},
+		"hair.braid.front": {
+			"layer": 3,
+			"variants": {
+				"stern": {
+					"art": "hd/hair_braid_front__stern_p6_p3.png",
+					"mask": "hd/hair_braid_front__stern_p6_p3_mask.png",
+					"dx": 304,
+					"dy": 128,
+					"dw": 145,
+					"dh": 213
+				},
+				"easy": {
+					"art": "hd/hair_braid_front__easy_p6_p3.png",
+					"mask": "hd/hair_braid_front__easy_p6_p3_mask.png",
+					"dx": 282,
+					"dy": 94,
+					"dw": 177,
+					"dh": 259
+				},
+				"bright": {
+					"art": "hd/hair_braid_front__bright_p6_p3.png",
+					"mask": "hd/hair_braid_front__bright_p6_p3_mask.png",
+					"dx": 294,
+					"dy": 120,
+					"dw": 154,
+					"dh": 226
+				},
+				"keen": {
+					"art": "hd/hair_braid_front__keen_p6_p3.png",
+					"mask": "hd/hair_braid_front__keen_p6_p3_mask.png",
+					"dx": 301,
+					"dy": 95,
+					"dw": 167,
+					"dh": 244
+				}
+			},
+			"slots": []
+		},
+		"hair.braid.back": {
+			"layer": 0,
+			"variants": {
+				"stern": {
+					"art": "hd/hair_braid_back__stern_p6_p3.png",
+					"mask": "hd/hair_braid_back__stern_p6_p3_mask.png",
+					"dx": 321,
+					"dy": 119,
+					"dw": 119,
+					"dh": 212
+				},
+				"easy": {
+					"art": "hd/hair_braid_back__easy_p6_p3.png",
+					"mask": "hd/hair_braid_back__easy_p6_p3_mask.png",
+					"dx": 301,
+					"dy": 118,
+					"dw": 144,
+					"dh": 258
+				},
+				"bright": {
+					"art": "hd/hair_braid_back__bright_p6_p3.png",
+					"mask": "hd/hair_braid_back__bright_p6_p3_mask.png",
+					"dx": 311,
+					"dy": 118,
+					"dw": 126,
+					"dh": 225
+				},
+				"keen": {
+					"art": "hd/hair_braid_back__keen_p6_p3.png",
+					"mask": "hd/hair_braid_back__keen_p6_p3_mask.png",
+					"dx": 321,
+					"dy": 119,
+					"dw": 136,
+					"dh": 243
+				}
+			},
+			"slots": []
+		}
+	}
+}
